@@ -45,6 +45,7 @@ header li {
   padding: 10px;
   padding-right: 30px;
   float: right;
+  letter-spacing: 3px;
 }
 
 header a {
